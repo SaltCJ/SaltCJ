@@ -12,14 +12,15 @@ I believe that the best code is clean, well-documented, and maintainable. I'm co
 
 Languages: Python, SQL, R
 Frameworks: TensorFlow, PyTorch, Scikit-learn, Hugging Face
+
 Data & MLOps: Pandas, NumPy, DVC, MLflow, Docker
+
 Platforms: Google Cloud, AWS, Azure
 
 **🌱 Let's Connect**
 
 Portfolio/Website: www.chijiokework.com
+
 LinkedIn: www.linkedin.com/in/chijioke-madu-datatrove
 
 Feel free to explore my repositories. I'm always open to collaboration on projects that align with my interests!
-
--->
