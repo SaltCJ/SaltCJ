@@ -22,6 +22,7 @@ I believe that the best code is clean, well-documented, and maintainable. I'm co
 
 ### **🌱 Let's Connect**
 
+---
 Portfolio/Website: www.chijiokework.com
 
 LinkedIn: www.linkedin.com/in/chijioke-madu-datatrove
