@@ -8,6 +8,7 @@ I'm a Data Scientist and AI Research Engineer passionate about building intellig
 My core mission is to transform complex data into actionable insights and scalable AI solutions. I specialize in developing and deploying state-of-the-art models, including Large Language Models (LLMs), for a wide range of applications.
 
 I believe that the best code is clean, well-documented, and maintainable. I'm committed to writing code that is easy to read, test, and build upon. Beyond the technical, I care deeply about the societal and environmental impact of my work. My goal is to create AI that consumes fewer resources, is more energy-efficient, and contributes to a more sustainable future.
+
 ---
 **🛠️ Tech & Tools**
 
