@@ -12,6 +12,8 @@ I believe that the best code is clean, well-documented, and maintainable. I'm co
 ---
 **🛠️ Tech & Tools**
 
+***
+
 **~** Languages: Python, SQL, R
 
 **~** Frameworks: TensorFlow, PyTorch, Scikit-learn, Hugging Face
