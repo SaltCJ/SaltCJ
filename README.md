@@ -16,7 +16,7 @@ I believe that the best code is clean, well-documented, and maintainable. I'm co
 
 **~** Frameworks: `TensorFlow`, `PyTorch`, `Scikit-learn`, `Hugging Face`
 
-##**~** Data & MLOps: `Pandas`, `NumPy`, `DVC`, `MLflow`, `Docker`
+## **~** Data & MLOps: `Pandas`, `NumPy`, `DVC`, `MLflow`, `Docker`
 
 **~** Platforms: `Google Cloud`, `AWS`, `Azure`
 
