@@ -12,13 +12,11 @@ I believe that the best code is clean, well-documented, and maintainable. I'm co
 ---
 **🛠️ Tech & Tools**
 
-***
+**~** Languages: `Python`, `SQL`, 
 
-**~** Languages: Python, SQL, R
+**~** Frameworks: `TensorFlow`, `PyTorch`, `Scikit-learn`, `Hugging Face`
 
-**~** Frameworks: TensorFlow, PyTorch, Scikit-learn, Hugging Face
-
-**~** Data & MLOps: Pandas, NumPy, DVC, MLflow, Docker
+**~** Data & MLOps: `Pandas`, `NumPy`, `DVC`, `MLflow`, `Docker`
 
 **~** Platforms: Google Cloud, AWS, Azure
 
