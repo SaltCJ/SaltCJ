@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 I'm **Chijioke Madu** 👋
 I'm a Data Scientist and AI Research Engineer passionate about building intelligent systems that are not only powerful but also responsible. My work sits at the intersection of machine learning, deep learning, and robust engineering, with a strong focus on clean code and sustainability.
 
