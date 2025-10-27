@@ -10,7 +10,7 @@ My core mission is to transform complex data into actionable insights and scalab
 I believe that the best code is clean, well-documented, and maintainable. I'm committed to writing code that is easy to read, test, and build upon. Beyond the technical, I care deeply about the societal and environmental impact of my work. My goal is to create AI that consumes fewer resources, is more energy-efficient, and contributes to a more sustainable future.
 
 ---
-### **🛠️ Tech & Tools**
+### **🛠️ Tech & Tools :**
 
 **~** Languages: `Python`, `SQL`, 
 
