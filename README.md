@@ -3,7 +3,7 @@ I'm **Chijioke Madu**
 I'm a Data Scientist and AI Research Engineer passionate about building intelligent systems that are not only powerful but also responsible. My work sits at the intersection of machine learning, deep learning, and robust engineering, with a strong focus on clean code and sustainability.
 
 ---
-### **💻 My Work & Philosophy**
+### **💻 My Work & Philosophy :**
 
 My core mission is to transform complex data into actionable insights and scalable AI solutions. I specialize in developing and deploying state-of-the-art models, including Large Language Models (LLMs), for a wide range of applications.
 
