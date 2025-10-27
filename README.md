@@ -21,7 +21,7 @@ I believe that the best code is clean, well-documented, and maintainable. I'm co
 **~** Platforms: `Google Cloud`, `AWS`, `Azure`
 
 ---
-### **🌱 Let's Connect**
+### **🌱 Let's Connec :t**
 
 Portfolio/Website: www.chijiokework.com
 
